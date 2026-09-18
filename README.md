@@ -89,4 +89,4 @@ The Random Forest Regressor provided stronger predictive performance than the Li
 
 ## Author
 
-Lakshya Soni
+Kinjal Soni
